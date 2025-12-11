@@ -1,0 +1,51 @@
+pr_id;html_url;title;agent;ratio;CÛdigo;OBS
+3045866074;https://github.com/calcom/cal.com/pull/21152;test: add unit tests for getWhereForTeamOrAllTeams function;Devin;0.9999890433726774;Entendimento deficiente do contexto;
+3085149115;https://github.com/promptfoo/promptfoo/pull/4131;chore(redteam): add label strategyless plugins in redteam setup ui;OpenAI_Codex;0.9999728335745971;Retrabalho necess·rio;"Envolvimento de m˙ltiplos agentes de IA para verificaÁ„o; pequenas modificaÁıes"
+3125966641;https://github.com/prebid/Prebid.js/pull/13305;Adtrue bid adapter: improve test coverage;OpenAI_Codex;0.999969286402957;Retrabalho necess·rio;"M˙ltiplos commits (pequenas tarefas; n„o passava nos testes)"
+3081788219;https://github.com/wandb/weave/pull/4555;fix(weave): exclude null ref from object serialization;OpenAI_Codex;0.9999661883145663;Retrabalho necess·rio;Autor realizou pequenos ajustes ( m˙ltiplos commits)
+2791971139;https://github.com/appsmithorg/appsmith/pull/38690;feat: update autocomplete sorting;Devin;0.9999648613604979;Retrabalho necess·rio;M˙ltiplos commits (pequenas tarefas)
+2884473950;https://github.com/ComposioHQ/composio/pull/1378;feat: migrate from pipenv to uv package manager;Devin;0.9997686590775093;Retrabalho necess·rio;"M˙ltiplos commits (pequenas tarefas; n„o passava nos testes)"
+2971108176;https://github.com/near/nearcore/pull/13276;Deprecate ComputeCosts and FlatStorageReads features;Devin;0.9995171615760512;Retrabalho necess·rio;M˙ltiplos commits (pequenas tarefas)
+3204638331;https://github.com/rsyslog/rsyslog/pull/5745;Clean up Python indentation;OpenAI_Codex;0.9986600457160874;Retrabalho necess·rio;
+3100461288;https://github.com/theopenco/llmgateway/pull/252;feat: require organizationId in provider key creation payload;Devin;0.9949435559736595;Retrabalho necess·rio;
+3030054309;https://github.com/fjordllc/bootcamp/pull/8594;Fix: „Éò„ÉÉ„Éâ„É¨„ÇπChrome„É¢„Éº„Éâ„Åß„ÅÆJavaScript„Ç¢„É©„Éº„ÉàÂá¶ÁêÜ„Çí‰øÆÊ≠£;Devin;0.9946284691136974;N„o foi possÌvel analisar;
+2989362059;https://github.com/antiwork/flexile/pull/103;Fix import paths in wrapper components;Devin;0.9937254901960785;Retrabalho necess·rio;"M˙ltiplos commits (pequenas tarefas; n„o passava nos testes)"
+3245682772;https://github.com/parse-community/parse-dashboard/pull/2930;fix: Modal text input can be resized smaller than its cell in Safari browser;OpenAI_Codex;0.9935064935064936;Retrabalho necess·rio;PR atribuÌdo ao Codex no dataset. Mas pela inspeÁ„o foi o coderabbitai[bot]
+2894930869;https://github.com/crewAIInc/crewAI/pull/2277;Add support for custom LLM implementations;Devin;0.992133864765684;Retrabalho necess·rio;"M˙ltiplos commits (pequenas tarefas; n„o passava nos testes)"
+2815602191;https://github.com/dust-tt/dust/pull/10269;feat: add dark mode variants for semantic color tokens;Devin;0.990185064743097;Retrabalho necess·rio;"M˙ltiplos commits (pequenas tarefas; n„o passava nos testes)"
+3115742256;https://github.com/ESPresense/ESPresense-companion/pull/1157;Add unit tests for TimeSpan extension parser;OpenAI_Codex;0.9881453154875717;Retrabalho necess·rio;
+2912249467;https://github.com/airbytehq/airbyte/pull/55709;[source-mssql, cdk]: cherry-pick PR #55701;Devin;0.9859154929577465;Retrabalho necess·rio;M˙ltiplos commits (pequenas tarefas)
+3196526840;https://github.com/567-labs/instructor/pull/1645;Investigate caching options for from_provider();Cursor;0.9854404507923066;Retrabalho necess·rio;"M˙ltiplos commits (pequenas tarefas; n„o passava nos testes)"
+3126215556;https://github.com/hmislk/hmis/pull/12781;Remove obsolete methods from pharmacy controller;OpenAI_Codex;0.9818451889750784;Retrabalho necess·rio;M˙ltiplos commits (pequenas tarefas)
+3127925920;https://github.com/PrefectHQ/marvin/pull/1162;Add thread summary asset to slackbot;OpenAI_Codex;0.9569752281616688;Retrabalho necess·rio;M˙ltiplos commits (pequenas tarefas)
+3216373575;https://github.com/browser-use/browser-use/pull/2380;Remove planner tool code and documentation;Cursor;0.9503184003861649;Retrabalho necess·rio;
+3118224125;https://github.com/go-vikunja/vikunja/pull/868;chore(deps): upgrade to Tailwind 4;OpenAI_Codex;0.9421624173748819;SoluÁ„o incompleta;
+3072069122;https://github.com/different-ai/zero-finance/pull/109;Implement onboarding and KYC loop hooks;OpenAI_Codex;0.9404998016660056;Retrabalho necess·rio;M˙ltiplos commits (pequenas tarefas)
+3199191078;https://github.com/nextcloud/desktop/pull/8428;fix(ignore-list): skip star pattern;OpenAI_Codex;0.9302325581395349;SoluÁ„o superficial;
+3126249131;https://github.com/airbytehq/airbyte/pull/61441;fix(docker-images): align manifest-only Dockerfile with airbyte-ci build process;Devin;0.9289940828402367;Retrabalho necess·rio;M˙ltiplos commits (pequenas tarefas)
+2906301362;https://github.com/harrisonwang/docxy/pull/1;Update health check response message;Devin;0.9083333333333333;Retrabalho necess·rio;M˙ltiplos commits (pequenas tarefas)
+3244774153;https://github.com/brevdev/brev-cli/pull/238;Add support for brev open code/cursor commands and default editor setting;Devin;0.054474708171206226;Retrabalho necess·rio;"M˙ltiplos commits (pequenas tarefas; n„o passava nos testes)"
+3156703484;https://github.com/MontrealAI/AGI-Alpha-Agent-v0/pull/2327;[alpha_factory] update openai-agents note;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3143560359;https://github.com/MontrealAI/AGI-Alpha-Agent-v0/pull/2079;[alpha_factory] add macro demo compose test;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3070064117;https://github.com/Valour-Software/Valour/pull/1246;docs: fix typo in README;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3164661520;https://github.com/VirtualBox/virtualbox/pull/49;[WIP] Implement NVIDIA GeForce3 Ti 500 Device for VirtualBox;Copilot;0.0;N„o foi mergeado/aceito;N„o foi mergeado 
+3074773765;https://github.com/hyperlight-dev/hyperlight/pull/506;[WIP] Avoid reopening /dev/kvm or /dev/mshv for every new sandbox;Copilot;0.0;N„o foi mergeado/aceito;N„o foi mergeado 
+3245132478;https://github.com/mochilang/mochi/pull/10124;Update Smalltalk transpiler tests;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3205134266;https://github.com/mochilang/mochi/pull/5251;Improve Dart conversion in any2mochi;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3157586804;https://github.com/mochilang/mochi/pull/1902;Add parentheses for correct Prolog output;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3148008733;https://github.com/MontrealAI/AGI-Alpha-Agent-v0/pull/2215;[alpha_factory] test self-healer failure scenarios;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3263262623;https://github.com/mochilang/mochi/pull/13138;Benchmark rosetta indices 81-110 for Ruby transpiler;OpenAI_Codex;0.0;Boa aderÍncia inicial;
+3082908494;https://github.com/nodetool-ai/nodetool/pull/53;Add user guide for first-time installation;OpenAI_Codex;0.0;Adequado para tarefa simples;DocumentaÁ„o
+3242580600;https://github.com/mochilang/mochi/pull/9579;Update vm for globals and fix puzzle;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3254376822;https://github.com/MontrealAI/AGI-Alpha-Agent-v0/pull/3675;[alpha_factory] regenerate lock files;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3144770565;https://github.com/abi/screenshot-to-code/pull/512;Refactor model groups;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3153919447;https://github.com/hmislk/hmis/pull/13158;Add PharmacyIncomeRow DTO and use it for cost report;OpenAI_Codex;0.0;Boa aderÍncia inicial;
+3143862513;https://github.com/hmislk/hmis/pull/13023;Add description field to Manage VMPP;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3165688361;https://github.com/halilozel1903/AndroidTVMovieParadise/pull/16;Fix background poster update on resume;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3184082070;https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/pull/1178;Prepare release v4.5.0;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3214389367;https://github.com/mochilang/mochi/pull/6577;Remove Lua runtime print helper;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3242965887;https://github.com/mochilang/mochi/pull/9733;Attempt to extend Erlang backend;OpenAI_Codex;0.0;N„o foi mergeado/aceito;N„o foi mergeado. PossÌvel trabalho futuro: Buscar entender o que leva um PR a n„o ser mergeado quando gerado por IA
+3117353919;https://github.com/mochilang/mochi/pull/26;Add npm publish target;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3181371441;https://github.com/mochilang/mochi/pull/3617;Improve PHP output formatting;OpenAI_Codex;0.0;Adequado para tarefa simples;
+3074838163;https://github.com/antiwork/flexile/pull/309;Update reply-to for dividend/distribution emails to use support email;Devin;0.0;Boa aderÍncia inicial;
+2861780617;https://github.com/wolfSSL/wolfssl/pull/8469;Update wc_KyberKey API to wc_MlKem;Devin;0.0;N„o foi mergeado/aceito;N„o foi mergeado 
